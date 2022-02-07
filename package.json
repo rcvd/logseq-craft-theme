@@ -1,0 +1,24 @@
+{
+  "name": "Craft",
+  "author": "Alexander Rink",
+  "version": "0.0.1",
+  "description": "Almost all creativity requires purposeful play. A craft theme for Logseq.",
+  "logseq": {
+    "themes": [
+      {
+        "name": "Craft - Light",
+        "url": "./craft.css",
+        "description": "Almost all creativity requires purposeful play. A craft theme for Logseq.",
+        "mode": "light"
+      },
+      {
+        "name": "Craft - Dark",
+        "url": "./craft.css",
+        "description": "Almost all creativity requires purposeful play. A craft theme for Logseq.",
+        "mode": "dark"
+      }
+    ],
+    "id": "bear",
+    "icon": "./icon.png"
+  }
+}
