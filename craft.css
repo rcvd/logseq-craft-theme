@@ -517,7 +517,7 @@ html[data-theme=dark] {
 	background-color: 		var(--cl-whitesmoke);
 }
 .dark-theme .block-children-left-border,  html[data-theme=dark] .block-children-left-border {
-	background-color: 		var(--cl-darkjungle);
+	background-color: 		var(--cl-bunker);
 }
 
 blockquote {
@@ -531,7 +531,7 @@ blockquote {
 	font-family: 			-apple-system, BlinkMacSystemFont, sans-serif;
 }
 .dark-theme blockquote,  html[data-theme=dark] blockquote {
-	background-color: 		var(--cl-darkjungle);
+	background-color: 		var(--cl-bokara);
 	border-top: 			transparent;
 	border-right: 			transparent;
 	border-bottom: 			transparent;
