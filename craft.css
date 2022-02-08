@@ -1277,11 +1277,20 @@ a.tag {
 	color: 					var(--cl-silverchalice);
 }
 
-textarea::selection, input::selection {
+input::selection {
 	background-color: 		var(--cl-cornflower);
 	color: 					var(--cl-black);
 }
-.dark-theme *:is(textarea::selection, input::selection), html[data-theme=dark] *:is(textarea::selection, input::selection) {
+.dark-theme input::selection,  html[data-theme=dark] input::selection {
+	background-color: 		var(--cl-matisse);
+	color: 					var(--cl-wildsand);
+}
+
+textarea::selection {
+	background-color: 		var(--cl-cornflower);
+	color: 					var(--cl-black);
+}
+.dark-theme textarea::selection,  html[data-theme=dark] textarea::selection {
 	background-color: 		var(--cl-matisse);
 	color: 					var(--cl-wildsand);
 }
