@@ -1,7 +1,7 @@
 {
   "name": "Craft",
   "author": "Alexander Rink",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Almost all creativity requires purposeful play. A craft theme for Logseq.",
   "logseq": {
     "themes": [
